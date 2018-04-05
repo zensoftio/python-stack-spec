@@ -1,8 +1,9 @@
 # Before writing any Python code
 
-## Python Style Guide
+## Python Style Guides
 
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
+[PEP 3000 -- Python 3000](https://www.python.org/dev/peps/pep-3000/)
 
 ## Naming
 
